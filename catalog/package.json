@@ -89,7 +89,7 @@
     "io-ts-types": "^0.5.16",
     "js-yaml": "^4.1.0",
     "jsoneditor-react": "^3.1.1",
-    "katex": "^0.13.19",
+    "katex": "^0.15.3",
     "lodash": "^4.17.21",
     "match-sorter": "^6.3.1",
     "mime-types": "^2.1.34",
