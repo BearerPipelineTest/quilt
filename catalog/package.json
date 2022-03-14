@@ -78,7 +78,7 @@
     "echarts": "^5.2.2",
     "final-form": "^4.20.4",
     "fontfaceobserver": "^2.1.0",
-    "fp-ts": "^2.11.5",
+    "fp-ts": "^2.11.9",
     "graphql": "^15.7.2",
     "highlight.js": "^11.4.0",
     "history": "^4.10.1",
